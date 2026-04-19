@@ -1,0 +1,32 @@
+a:link {
+    font-family: tahoma, arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0000aa;
+    text-decoration: none;
+}
+
+a:hover {
+    font-family: tahoma, arial;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #cc0000;
+    text-decoration: none;
+}
+
+a:active {
+    font-family: tahoma, arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: #00aa00;
+    text-decoration: none;
+}
+
+a:visited {
+    font-family: tahoma, arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0000aa;
+    text-decoration: none;
+}
